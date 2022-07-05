@@ -18,7 +18,7 @@ Install-BinFile -name $name -path $FileLocation.
 6. Luego subalo al repositorio publico de Chocolatey: 
 ```
 choco apikey --key llaveapi --source https://push.chocolatey.org/
-choco push nombreapp.version.nupkg --source https://push.chocolatey.org/```. Para mas informacion entre a la pestaña account de Chocolatey, donde podra encontrar su api key.
+choco push nombreapp.version.nupkg --source https://push.chocolatey.org/. Para mas informacion entre a la pestaña account de Chocolatey, donde podra encontrar su api key.
  ```
 ## Instalar el paquete
 choco install nombreapp --version version. Luego de la instalacion simplemente debe ejecutar el comando nombreapp en su consola para correr el programa.
