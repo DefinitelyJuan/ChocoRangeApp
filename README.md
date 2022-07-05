@@ -10,3 +10,5 @@ La aplicacion le permite al usuario digitar un rango y aplicarle las operaciones
 ## Instalacion y requerimientos
 Para instalar el paquete ejecuta el comando ```pip install kataRange==1.0.``` Luego para usarlo debes hacer ```from rangeKata import kataRange```
 * Nota: Para usarlo usted debe tener instalado python 3.10 o superior. *
+## Documentación Chocolatey
+Para saber los pasos que seguimos para subir el paquete a chocolatey, lea la siguiente documentación: [Docs](https://github.com/DefinitelyJuan/ChocoRangeApp/blob/main/Docs.md)
